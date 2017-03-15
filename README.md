@@ -6,7 +6,7 @@ Extension to Markdown for creating interactive documents
 ## What is it?
 Embedding models and data into documents allows for exploration and understanding that isn't possible with static text and images, but authoring these documents can be time-consuming and require knowledge of HTML, CSS, and JavaScript. Dynamic Markdown is a proposed solution to enable fast and straightforward authoring of interactive documents.
 
-Dynamic Markdown is a work in progress; additional elements and D3 templates for declaratively adding charts coming soon.
+Dynamic Markdown is a work in progress; additional elements and D3 templates for declaratively adding charts coming soon. For more information on the motivation behind Dynamic Markdown, see www.tal.bio/blog.
 
 ## Using Dynamic Markdown
 Dynamic Markdown takes as input a plaintext `.md` document and converts it in-browser to [Tangle](http://worrydream.com/Tangle/) code using a Coffeescript plug-in.
